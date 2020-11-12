@@ -1,6 +1,6 @@
 # akramcalculator
 
-Calculator provides simple mathematical functions in a beautifully designed app.
+This calculator provides simple mathematical functions in a beautifully designed app. It built with Admob. Enjoy it.
 
 ## Getting Started
 
